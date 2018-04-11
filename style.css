@@ -1,0 +1,129 @@
+body{
+	background: linear-gradient(to right, black, black);
+}
+
+
+
+
+
+h2{
+	background: linear-gradient(to right,#0ff8, #0fff2255);
+	width: 340px;
+	border-radius: 35px;
+	height: 465px;
+	 
+	
+
+}
+
+.mybutton{
+	height: 50px;
+	width: 60px;
+	background-color: black;
+	color: rgb(176,176,176);
+	font-size: 30px;
+    border-radius: 15px;	
+	border-bottom-color: #0ff5;
+    border-left-color: #0ff5;
+    border-right-color: #0ff5;
+    border-top-color: #0ff5;
+     border-top-width: 5px;
+   border-left-width: 4px;
+    border-bottom-width: 5px;
+    border-right-width: 4px;
+
+}
+
+.screen{
+	height: 60px;
+	width: 317px;
+	background-color: rgb(97,97,64);
+	font-size: 35px;
+	border-color: #0ff3;
+	border-radius: 15px;
+	color: black;
+	text-align: center;
+	   border-bottom-color:#0ff3 ;
+    border-left-color: #0ff3;
+    border-right-color: #0ff3;
+    border-top-color: #0ff3;
+     border-top-width: 5px;
+    border-left-width: 4px;
+    border-bottom-width: 5px;
+    border-right-width: 4px;
+
+}
+.on{
+height: 60px;
+	width: 60px;
+	background-color: rgb(0,101,101);
+	color: black;
+	font-size: 17px;
+	border-top-width: 5px; 
+	border-radius: 35px;
+     border-bottom-color:#0ff8 ;
+    border-left-color: #0ff8;
+    border-right-color: #0ff8;
+    border-top-color: #0ff8;
+     border-top-width: 5px;
+    border-left-width: 4px;
+    border-bottom-width: 5px;
+    border-right-width: 4px;
+}
+.off{
+
+height: 60px;
+	width: 60px;
+	background-color: rgb(0,101,101);
+	color: black;
+	font-size: 17px;
+	border-radius: 35px;
+	border-bottom-color: #0ff8;
+    border-left-color: #0ff8;
+    border-right-color: #0ff8;
+    border-top-color: #0ff8;
+    border-top-width: 5px;
+    border-left-width: 4px;
+    border-bottom-width: 5px;
+    border-right-width: 4px;
+}
+.a{
+
+height: 35px;
+	width: 60px;
+	background-color:black;
+	color: orange;
+	font-size: 20px;
+	border-radius: 25px;	
+border-bottom-color: #0ff3;
+    border-left-color: #0ff3;
+    border-right-color: #0ff3;
+    border-top-color: #0ff3;
+      border-top-width: 5px;
+   border-left-width: 4px;
+    border-bottom-width: 5px;
+    border-right-width: 4px;
+   
+}
+.title{
+	font-size: 45px;
+	color: black;
+	font-style: italic;
+}
+.mbutton{
+	height: 50px;
+width: 60px;
+	background-color: rgb(0,101,101);
+	color: rgb(176,176,176);
+	font-size: 30px;
+    border-radius: 15px;	
+	border-bottom-color: #0ff3;
+    border-left-color: #0ff3;
+    border-right-color: #0ff3;
+    border-top-color: #0ff3;	
+    border-top-width: 5px;
+   border-left-width: 4px;
+    border-bottom-width: 5px;
+    border-right-width: 4px;
+
+}
